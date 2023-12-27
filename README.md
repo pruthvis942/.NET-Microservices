@@ -1,7 +1,7 @@
 
-# E-Commerce Microservices with .NET Core
+# Microservices with .NET Core
 
-This repository houses a comprehensive set of modules that form the backbone of a scalable and robust e-commerce platform. Leveraging .NET Core 8 and various technologies, these microservices are designed to handle critical aspects of an online shopping experience.
+This repository houses a comprehensive set of modules that form the backbone of a scalable and robust platform. Leveraging .NET Core 8 and various technologies, these microservices are designed to handle critical aspects of an online shopping experience.
 
 ### Included Microservices
 
